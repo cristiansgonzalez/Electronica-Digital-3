@@ -4,7 +4,7 @@
 
 # ¿Que deben entregar?
 
-- Documento en word con el resumen de todo lo realizo y una breve introducción de los temas abarcados.
+- Documento en Word con el resumen de todo lo realizo, una breve introducción de los temas abarcados, explicación de como se hizo la linealización o escalamiento, grafico de los datos, y grafica de la linealización.
 - Montaje en físico
 - Códigos hechos (FlowCode)
 - Simulaciones hechas (Proteus, FlowCode)
