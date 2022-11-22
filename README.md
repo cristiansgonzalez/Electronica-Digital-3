@@ -1,6 +1,6 @@
 # Indicaciones
 
-- Fecha de entrega del laboratorio y del informe 29 de noviembre del 2022
+- Fecha de entrega del laboratorio y del informe 28 de noviembre del 2022
 
 # ¿Que deben entregar?
 
